@@ -1,3 +1,3 @@
 # Adding People with React
 
-This is my first Project with JS & React
+This is my first Project with Typescript & React
